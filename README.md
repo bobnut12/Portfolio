@@ -6,10 +6,13 @@ Mechanical Design & Computer-Aided Drafting student transitioning into the CADD 
 
 ## 🛠️ Technical Skillset
 
-* **Parametric & Assembly Design:** SolidWorks, Autodesk Inventor, Autodesk Fusion 360, Onshape
-  * Large assembly management, multi-configuration modeling, parametric feature-tree hygiene, and multi-CAD data translation.
-* **Production Documentation:** ASME/ISO standard 2D mechanical drawing packages, section views, detailed callouts, and Geometric Dimensioning & Tolerancing (GD&T) application.
-* **Design for Manufacturing (DFM) & Prototyping:** Print-ready optimization using OrcaSlicer, precise tolerance management for mechanical fitments, and hands-on experience building and maintaining custom Voron/Klipper hardware infrastructure.
+*---
+
+* **Parametric & Assembly Design:** Experienced in SolidWorks, Autodesk Inventor, Autodesk Fusion 360, and Onshape. Capabilities include large assembly management, multi-configuration modeling, parametric feature-tree hygiene, and multi-CAD data translation.
+* **Production Documentation:** Proficient in ASME/ISO standard 2D mechanical drawing packages, including section views, detailed callouts, and the practical application of Geometric Dimensioning & Tolerancing (GD&T).
+* **DFM & Prototyping:** Skilled in print-ready optimization using OrcaSlicer, precise tolerance management for mechanical fitments, and hands-on experience building and tuning custom Voron/Klipper hardware infrastructure.
+
+---
 
 ---
 
