@@ -1,12 +1,13 @@
 # Josh | CADD Portfolio
 
+
 Mechanical Design & Computer-Aided Drafting student transitioning into the CADD field. Experienced in parametric modeling, assembly configuration, standard 2D technical drafting, and design for manufacturing (DFM).
 
 ---
 
+
 ## 🛠️ Technical Skillset
 
-*---
 
 * **Parametric & Assembly Design:** Experienced in SolidWorks, Autodesk Inventor, Autodesk Fusion 360, and Onshape. Capabilities include large assembly management, multi-configuration modeling, parametric feature-tree hygiene, and multi-CAD data translation.
 * **Production Documentation:** Proficient in ASME/ISO standard 2D mechanical drawing packages, including section views, detailed callouts, and the practical application of Geometric Dimensioning & Tolerancing (GD&T).
@@ -14,9 +15,9 @@ Mechanical Design & Computer-Aided Drafting student transitioning into the CADD 
 
 ---
 
----
 
 ## 📁 Featured Projects
+
 
 ### 🚀 [01. Multi-Class Term Project: End-to-End Build](./01-multi-class-term-project/)
 An end-to-end design cycle tracking a product from initial problem-solving to a physical build. 
@@ -35,6 +36,7 @@ A curated gallery of coursework exercises showcasing speed, geometric variety, a
 * **Key Skills:** Speed modeling, parametric constraints, standard part drawing layouts.
 
 ---
+
 
 ## 📬 Contact Info
 * **Email:** [Your Email Here]
