@@ -25,8 +25,8 @@ The objective of this project was to engineer a functional mechanical solution a
 The design began as a conceptual model in Onshape before transitioning to SolidWorks for advanced configuration management and detailing. This required clean data migration, maintaining references, and managing step-file imports without geometry degradation.
 
 <p align="center">
-  <img src="images/figure2a.png" alt="Configuration A" width="48%" />
-  <img src="images/figure2b.png" alt="Configuration B" width="48%" />
+  <img src="images/figure2a.png" alt="Configuration A" width="38%" />
+  <img src="images/figure2b.png" alt="Configuration B" width="38%" />
 </p>
 <p align="center"><em>Figure 2: Side-by-side assembly configuration analysis demonstrating geometric variations.</em></p>
 
