@@ -21,18 +21,14 @@ Mechanical Design & Computer-Aided Drafting student transitioning into the CADD 
 
 ### 🚀 [01. Multi-Class Term Project: End-to-End Build](./01-multi-class-term-project/)
 
-<table>
-  <tr>
-    <td width="25%" valign="top" align="center">
-      <img src="01-multi-class-term-project/images/figure2a.png" alt="Project Preview" width="100%" />
-    </td>
-    <td width="75%" valign="top">
-      An end-to-end design cycle tracking a product from initial problem-solving to a physical build. 
-      <br /><br />
-      <strong>Key Skills:</strong> Multi-configuration SolidWorks assemblies, Onshape data integration, standard 2D assembly/part drawings, and optimized slicing configurations for a Voron 3D printer using OrcaSlicer.
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="01-multi-class-term-project/images/figure2a.png" alt="Project Preview" width="22%" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
+  An end-to-end design cycle tracking a product from initial problem-solving to a physical build.
+  <br /><br />
+  <strong>Key Skills:</strong> Multi-configuration SolidWorks assemblies, Onshape data integration, standard 2D assembly/part drawings, and optimized slicing configurations for a Voron 3D printer using OrcaSlicer.
+</div>
+
+<br clear="left"/>
 
 ### 💡 [02. Inventor Product Development Presentation](./02-inventor-product-development/)
 A high-level concept presentation demonstrating product design thinking, visual presentation skills, and professional rendering.
