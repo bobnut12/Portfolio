@@ -22,7 +22,7 @@ The objective of this project was to engineer a functional mechanical solution a
 
 The design began as a conceptual model in Onshape before transitioning to SolidWorks for advanced configuration management and detailing. This required clean data migration, maintaining references, and managing step-file imports without geometry degradation.
 
-![Figure 3: Configuration Comparison](../images/figure2a.png)
+![Figure 3: Configuration Comparison](images/figure2a.png)
 *Figure 3: Side-by-side assembly configuration analysis demonstrating geometric variations.*
 
 Using SolidWorks, the model was built using robust parametric feature trees to allow rapid design changes. Multiple assembly configurations were developed to account for different operating conditions and material variations, ensuring the design remained modular and scalable.
@@ -33,7 +33,7 @@ Using SolidWorks, the model was built using robust parametric feature trees to a
 
 A design is only as good as its documentation. A complete, production-ready drawing package was generated adhering to ASME standards to ensure seamless fabrication or machine-shop handoff.
 
-![Figure 4: Engineering Drawing Pack](../images/figure3.png)
+![Figure 4: Engineering Drawing Pack](images/figure3.png)
 *Figure 4: Multi-sheet 2D technical drawing package including full bill of materials (BOM).*
 
 The drawing package includes:
@@ -46,7 +46,7 @@ The drawing package includes:
 
 To bridge the gap between digital modeling and physical production, the components were optimized for print-bed orientation, strength distribution, and rapid deployment.
 
-![Figure 5: OrcaSlicer Preview](../images/figure4.png)
+![Figure 5: OrcaSlicer Preview](images/figure4.png)
 *Figure 5: Slicing configuration preview in OrcaSlicer showcasing toolpath and layer strategy.*
 
 ### Slicing & Hardware Optimization
