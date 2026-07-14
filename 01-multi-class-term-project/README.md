@@ -2,7 +2,7 @@
 
 This project tracks a complete product development cycle, from identifying initial engineering constraints to executing multi-CAD data integration, detailed 2D production documentation, and physical manufacturing optimization.
 
-![Figure 1: Final Product Render](01-multi-class-term-project/images/figure1.jpg)
+![Figure 1: Final Product Render](images/figure1.jpg)
 *Figure 1: High-resolution rendering of the finalized assembly.*
 
 ---
