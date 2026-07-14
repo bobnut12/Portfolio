@@ -39,13 +39,9 @@ Using SolidWorks, the model was built using robust parametric feature trees to a
 A design is only as good as its documentation. A complete, production-ready drawing package was generated adhering to ASME standards to ensure seamless fabrication or machine-shop handoff.
 
 <p align="center">
-  <img src="images/figure3a.png" alt="Engineering Drawing Sheet 1" width="55%" />
-</p>
-<p align="center">
-  <img src="images/figure3b.png" alt="Engineering Drawing Sheet 2" width="55%" />
-</p>
-<p align="center">
-  <img src="images/figure3c.png" alt="Engineering Drawing Sheet 3" width="55%" />
+  <img src="images/figure3a.png" alt="Engineering Drawing Sheet 1" width="65%" /><br />
+  <img src="images/figure3b.png" alt="Engineering Drawing Sheet 2" width="65%" /><br />
+  <img src="images/figure3c.png" alt="Engineering Drawing Sheet 3" width="65%" />
 </p>
 <p align="center"><em>Figure 3: Multi-sheet 2D technical drawing package including full bill of materials (BOM).</em></p>
 
