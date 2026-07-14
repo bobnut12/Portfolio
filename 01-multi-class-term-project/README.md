@@ -22,8 +22,11 @@ The objective of this project was to engineer a functional mechanical solution a
 
 The design began as a conceptual model in Onshape before transitioning to SolidWorks for advanced configuration management and detailing. This required clean data migration, maintaining references, and managing step-file imports without geometry degradation.
 
-![Figure 3: Configuration Comparison](images/figure2a.png)
-*Figure 3: Side-by-side assembly configuration analysis demonstrating geometric variations.*
+<p align="center">
+  <img src="images/figure2a.png" alt="Configuration A" width="48%" />
+  <img src="images/figure2b.png" alt="Configuration B" width="48%" />
+</p>
+<p align="center"><em>Figure 2: Side-by-side assembly configuration analysis demonstrating geometric variations.</em></p>
 
 Using SolidWorks, the model was built using robust parametric feature trees to allow rapid design changes. Multiple assembly configurations were developed to account for different operating conditions and material variations, ensuring the design remained modular and scalable.
 
