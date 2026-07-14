@@ -27,11 +27,9 @@ Mechanical Design & Computer-Aided Drafting student transitioning into the CADD 
       <img src="01-multi-class-term-project/images/figure2a.png" alt="Project Preview" width="100%" />
     </td>
     <td width="75%" valign="top">
-      An end-to-end design cycle tracking a product from initial problem-solving to a physical build.
+      An end-to-end design cycle tracking a product from initial problem-solving to a physical build. 
       <br /><br />
-      <ul>
-        <li><strong>Key Skills:</strong> Multi-configuration SolidWorks assemblies, Onshape data integration, standard 2D assembly/part drawings, and optimized slicing configurations for a Voron 3D printer using OrcaSlicer.</li>
-      </ul>
+      <strong>Key Skills:</strong> Multi-configuration SolidWorks assemblies, Onshape data integration, standard 2D assembly/part drawings, and optimized slicing configurations for a Voron 3D printer using OrcaSlicer.
     </td>
   </tr>
 </table>
