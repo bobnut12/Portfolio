@@ -47,13 +47,13 @@ Translated the 3D assembly into a professional, ASME-compliant 2D drawing packag
 
 ---
 ## 4. Design for Additive Manufacturing (DFAM)
-Optimized model geometries and toolpaths for reliable physical fabrication, focusing on support reduction, bridge control, and material-specific shrinkage.
+Optimized model geometries and toolpath parameters to ensure printability, minimize print time, and guarantee structural integrity.
 
 <p align="center">
-  <img src="images/figure5.jpg" alt="Figure 5: OrcaSlicer Toolpath Preview" width="60%" />
+  <img src="images/figure4.png" alt="Figure 4: OrcaSlicer Toolpath Preview" width="60%" />
 </p>
 <p align="center"><em>Figure 5: Slicing configuration preview in OrcaSlicer showcasing toolpath and layer strategy.</em></p>
 
-* **Slicer & Support Optimization:** Tuned OrcaSlicer parameters—specifically wall loops, infill geometry, and snug support interfaces—to isolate sacrificial supports and minimize print time.
-* **Bridge & Orientation Control:** Positioned the unibody base to leverage horizontal bridging limits, orienting toolpaths to span wide gaps cleanly without sagging.
-* **Thermal Shrinkage Compensation:** Formulated precise scaling and clearance offsets in the CAD model to account for the physical thermal contraction behavior of PETG during high-speed printing on a custom Klipper-controlled Voron.
+* **Support Structure Optimization:** Tuned wall loops, infill geometry, and snug support interfaces in OrcaSlicer to isolate sacrificial supports, allowing clean part release and reduced post-processing.
+* **Bridge & Toolpath Control:** Aligned the print orientation of the unibody base to leverage horizontal bridging limits, directing toolpath spans to bridge wide gaps cleanly without sagging.
+* **Physical Verification:** Fabricated the parts on a custom Voron printer to verify final mechanical clearances and interference fits.
