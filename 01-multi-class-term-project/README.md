@@ -32,9 +32,8 @@ Leveraged a hybrid modeling pipeline, transitioning from Onshape concept design 
 
 ---
 
-## 3. Production Documentation (2D Drafting)
-
-A design is only as good as its documentation. A complete, production-ready drawing package was generated adhering to ASME standards to ensure seamless fabrication or machine-shop handoff.
+## 3. ASME Production Documentation
+Generated a complete, production-ready drawing package to validate geometric tolerances and demonstrate professional drafting competence adhering to ASME standards.
 
 <p align="center">
   <img src="images/figure3a.png" alt="Engineering Drawing Sheet 1" width="65%" /><br />
@@ -43,9 +42,8 @@ A design is only as good as its documentation. A complete, production-ready draw
 </p>
 <p align="center"><em>Figure 3: Multi-sheet 2D technical drawing package including full bill of materials (BOM).</em></p>
 
-The drawing package includes:
-* **Main Assembly Layout:** Complete with balloon callouts, standard orthographic projections, and an itemized Bill of Materials (BOM).
-* **Detailed Part Sheets:** Two representative component drawings featuring section views, isometric details, precise dimensioning, and fitment tolerances.
+* **Master Assembly Sheet:** Features standard orthographic projections, isometric reference views, component balloon callouts, and an integrated Bill of Materials (BOM).
+* **Detailed Part Sheets:** Focuses on critical internal components, utilizing detailed section breakouts, precise dimensioning schemes, and targeted fitment tolerances.
 
 ---
 
