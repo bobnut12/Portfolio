@@ -9,14 +9,19 @@ This project tracks a complete product development cycle, from identifying initi
 
 ---
 
-## 1. Project Overview & Design Intent
+## 1. Design Challenges & Solutions
+Resolved physical interface constraints to minimize hardware and guarantee precise component fitment.
 
-The objective of this project was to engineer a functional mechanical solution addressing specific real-world parameters established during the initial Onshape phase. The design process prioritized structural integrity under load, geometric stability, and clean integration into an existing mechanical system.
+<div>
+  <strong>Key Prototyping Achievements:</strong>
+  <ul>
+    <li><strong>Compound Lid Profile:</strong> Isolated and matched the container lid's complex compound curves through three iterative, physical clearance test prints.</li>
+    <li><strong>Integrated Bearing Traps:</strong> Boolean-subtracted a McMaster-Carr STEP model in Onshape, tuning clearance offsets to compensate for PETG thermal shrinkage.</li>
+    <li><strong>Part Consolidation:</strong> Engineered interlocking dual-spindle rollers to eliminate assembly hardware, utilizing sacrificial support layers and Kapton-tape shims to manage axle tolerances.</li>
+  </ul>
+</div>
 
-### Key Design Constraints
-* **Dimensional Envelope:** Tight spatial constraints to interface cleanly with existing components.
-* **Fitment & Clearances:** Critical tolerance allocations to ensure smooth mechanical movement between moving features.
-* **Manufacturing Limits:** Geometric constraints optimized specifically for additive manufacturing without sacrificing mechanical strength.
+<br clear="left"/>
 
 ---
 
