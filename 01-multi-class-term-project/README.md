@@ -1,5 +1,4 @@
 # Multi-Class Term Project: End-to-End Build
-
 This project tracks a complete product development cycle, from identifying initial engineering constraints to executing multi-CAD data integration, detailed 2D production documentation, and physical manufacturing optimization.
 
 <p align="center">
