@@ -33,7 +33,7 @@ Leveraged a hybrid modeling pipeline, transitioning from Onshape concept design 
 ---
 
 ## 3. ASME Production Documentation
-Generated a complete, production-ready drawing package to validate geometric tolerances and demonstrate professional drafting competence adhering to ASME standards.
+Translated the 3D assembly into a professional, ASME-compliant 2D drawing package, utilizing precise dimensioning and limit tolerances to control critical component fitment.
 
 <p align="center">
   <img src="images/figure3a.png" alt="Engineering Drawing Sheet 1" width="65%" /><br />
