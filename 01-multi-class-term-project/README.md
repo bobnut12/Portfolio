@@ -15,7 +15,7 @@ Resolved physical interface constraints to minimize hardware and guarantee preci
 * **Integrated Bearing Traps:** Boolean-subtracted a McMaster-Carr STEP model in Onshape, tuning clearance offsets to compensate for PETG thermal shrinkage.
 * **Part Consolidation:** Designed interlocking dual-spindle rollers and a unibody base to eliminate additional hardware.
 
-📂 **Deep Dive:** [View the 6-Slide Design Presentation (PDF)]("images/Term%20Project_%20Filament%20Dry%20Box.pdf")
+📂 **Deep Dive:** [View the 6-Slide Design Presentation (PDF)](images/Term%20Project_%20Filament%20Dry%20Box.pdf)
 
 ---
 
