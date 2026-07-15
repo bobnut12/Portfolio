@@ -17,17 +17,18 @@ Resolved physical interface constraints to minimize hardware and guarantee preci
 
 ---
 
-## 2. Parametric Modeling & Configuration Strategy
-
-The design began as a conceptual model in Onshape before transitioning to SolidWorks for advanced configuration management and detailing. This required clean data migration, maintaining references, and managing step-file imports without geometry degradation.
+## 2. Multi-CAD Workflow & Configuration Strategy
+Leveraged a hybrid modeling pipeline, transitioning from Onshape concept design to SolidWorks for assembly configuration.
 
 <p align="center">
-  <img src="images/figure2a.png" alt="Configuration A" width="38%" />
-  <img src="images/figure2b.png" alt="Configuration B" width="38%" />
+  <img src="images/figure2a.png" alt="Configuration A" width="48%" />
+  <img src="images/figure2b.png" alt="Configuration B" width="48%" />
 </p>
-<p align="center"><em>Figure 2: Side-by-side assembly configuration analysis demonstrating geometric variations.</em></p>
+<p align="center"><em>Figure 2: Side-by-side assembly configuration.</em></p>
 
-Using SolidWorks, the model was built using robust parametric feature trees to allow rapid design changes. Multiple assembly configurations were developed to account for different operating conditions and material variations, ensuring the design remained modular and scalable.
+* **Cross-Platform Integration:** Modeled internal mechanism components in Onshape and container body/lid geometries in SolidWorks, executing data migration via STEP file imports.
+* **Parametric Assembly:** Completed the final multi-part assembly in SolidWorks using robust feature trees to maintain critical component references.
+* **Configuration Management:** Developed modular assembly configurations in SolidWorks to create an exploded view showcasing parts and assembly orientation.
 
 ---
 
