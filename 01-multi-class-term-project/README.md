@@ -15,9 +15,9 @@ Resolved physical interface constraints to minimize hardware and guarantee preci
 <div>
   <strong>Key Prototyping Achievements:</strong>
   <ul>
-    <li><strong>Compound Lid Profile:</strong> Isolated and matched the container lid's complex compound curves through three iterative, physical clearance test prints.</li>
-    <li><strong>Integrated Bearing Traps:</strong> Boolean-subtracted a McMaster-Carr STEP model in Onshape, tuning clearance offsets to compensate for PETG thermal shrinkage.</li>
-    <li><strong>Part Consolidation:</strong> Engineered interlocking dual-spindle rollers to eliminate assembly hardware, utilizing sacrificial support layers and Kapton-tape shims to manage axle tolerances.</li>
+    <li><strong>Compound Lid Profile:</strong> Isolated and matched the container lid's complex curves through iterative physical clearance test prints.</li>
+    <li><strong>Integrated Bearing Traps:</strong> Boolean-subtracted a McMaster-Carr STEP model in Onshape, tuning clearance offsets to compensate for material thermal shrinkage.</li>
+    <li><strong>Part Consolidation:</strong> Designed interlocking dual-spindle rollers and a unibody base to eliminate additional hardware.</li>
   </ul>
 </div>
 
