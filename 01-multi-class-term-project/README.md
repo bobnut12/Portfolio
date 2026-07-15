@@ -22,7 +22,6 @@ Resolved physical interface constraints to minimize hardware and guarantee preci
 </div>
 
 <br clear="left"/>
-
 ---
 
 ## 2. Parametric Modeling & Configuration Strategy
