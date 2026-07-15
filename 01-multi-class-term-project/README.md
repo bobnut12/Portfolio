@@ -46,14 +46,14 @@ Translated the 3D assembly into a professional, ASME-compliant 2D drawing packag
 * **Detailed Part Sheets:** Focuses on critical internal components, utilizing detailed section breakouts, precise dimensioning schemes, and targeted fitment tolerances.
 
 ---
+## 4. Design for Additive Manufacturing (DFAM)
+Optimized model geometries and toolpaths for reliable physical fabrication, focusing on support reduction, bridge control, and material-specific shrinkage.
 
-## 4. Design for Manufacturing (DFM) & 3D Printing
+<p align="center">
+  <img src="images/figure5.jpg" alt="Figure 5: OrcaSlicer Toolpath Preview" width="60%" />
+</p>
+<p align="center"><em>Figure 5: Slicing configuration preview in OrcaSlicer showcasing toolpath and layer strategy.</em></p>
 
-To bridge the gap between digital modeling and physical production, the components were optimized for print-bed orientation, strength distribution, and rapid deployment.
-
-![Figure 5: OrcaSlicer Preview](images/figure4.png)
-*Figure 5: Slicing configuration preview in OrcaSlicer showcasing toolpath and layer strategy.*
-
-### Slicing & Hardware Optimization
-* **Slicer Tuning (OrcaSlicer):** Configured with optimized wall counts, specific infill geometry to maximize directional rigidity, and targeted layer heights to ensure structural integrity.
-* **Hardware Execution:** Tailored specifically for a high-speed custom Voron machine running Klipper firmware. Tolerances were tuned to account for plastic shrinkage and thermal expansion, ensuring that parts fit perfectly right off the build plate.
+* **Slicer & Support Optimization:** Tuned OrcaSlicer parameters—specifically wall loops, infill geometry, and snug support interfaces—to isolate sacrificial supports and minimize print time.
+* **Bridge & Orientation Control:** Positioned the unibody base to leverage horizontal bridging limits, orienting toolpaths to span wide gaps cleanly without sagging.
+* **Thermal Shrinkage Compensation:** Formulated precise scaling and clearance offsets in the CAD model to account for the physical thermal contraction behavior of PETG during high-speed printing on a custom Klipper-controlled Voron.
