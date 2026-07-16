@@ -1,10 +1,6 @@
 # 02. Product Development Presentation
 A product proposal showcase outlining market research, concept design, and proprosed product requirements.
 
----
-📂 **Full Document:** [View the Complete Presentation (PDF)](images/KIELER-DE10.pdf)
----
-
 ## Slide Previews & Key Insights
 
 Key slides detailing the design's evolution are previewed below.
@@ -21,4 +17,8 @@ Key slides detailing the design's evolution are previewed below.
   <img src="images/DE10-slide8.jpg" alt="Slide 8 Preview" width="48%" />
   <img src="images/DE10-slide9.jpg" alt="Slide 9 Preview" width="48%" />
 </p>
+
+---
+📂 **Full Document:** [View the Complete Presentation (PDF)](images/KIELER-DE10.pdf)
+---
 
