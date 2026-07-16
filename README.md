@@ -33,7 +33,7 @@ Mechanical Design & Computer-Aided Drafting student transitioning into the CADD 
 ### 💡 [02. Product Development Presentation](./02-Product-Development-Presentation/)
 
 <div>
-  <img src="02-product-development-presentation/images/02-thumb.jpg" alt="Presentation Preview" width="22%" align="right" style="margin-left: 15px; margin-bottom: 10px;" />
+  <img src="02-product-development-presentation/images/02-thumb.png" alt="Presentation Preview" width="22%" align="right" style="margin-left: 15px; margin-bottom: 10px;" />
   A product proposal showcase outlining market research, concept design, and proprosed product requirements.
   <br /><br />
   <strong>Key Skills:</strong> Market analysis, conceptual product design, and professional technical presentation layout.
