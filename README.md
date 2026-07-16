@@ -30,9 +30,16 @@ Mechanical Design & Computer-Aided Drafting student transitioning into the CADD 
 
 <br clear="left"/>
 
-### 💡 [02. Inventor Product Development Presentation](./02-inventor-product-development/)
-A high-level concept presentation demonstrating product design thinking, visual presentation skills, and professional rendering.
-* **Key Skills:** Autodesk Inventor rendering, conceptual product design, technical presentation design.
+### 💡 [02. Product Development Presentation](./02-Product-Development-Presentation/)
+
+<div>
+  <img src="02-Product-Development-Presentation/images/DE10-slide2.jpg" alt="Presentation Preview" width="22%" align="right" style="margin-left: 15px; margin-bottom: 10px;" />
+  A product proposal showcase outlining market research, concept design, and proprosed product requirements.
+  <br /><br />
+  <strong>Key Skills:</strong> Market analysis, conceptual product design, and professional technical presentation layout.
+</div>
+
+<br clear="right"/>
 
 ### 📐 [03. Inventor Mechanical Drawing Package](./03-inventor-drawing-package/)
 A highly technical project focusing on the execution of clean, production-ready documentation.
