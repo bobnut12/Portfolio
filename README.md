@@ -30,7 +30,7 @@ Mechanical Design & Computer-Aided Drafting student transitioning into the CADD 
 
 <br clear="left"/>
 
-### 💡 [02. Product Development Presentation](./02-Product-Development-Presentation/)
+### 💡 [02. Product Development Presentation](./02-product-development-presentation/)
 
 <div>
   <img src="02-product-development-presentation/images/02-thumb.png" alt="Presentation Preview" width="22%" align="right" style="margin-left: 15px; margin-bottom: 10px;" />
@@ -41,9 +41,16 @@ Mechanical Design & Computer-Aided Drafting student transitioning into the CADD 
 
 <br clear="right"/>
 
-### 📐 [03. Inventor Mechanical Drawing Package](./03-inventor-drawing-package/)
-A highly technical project focusing on the execution of clean, production-ready documentation.
-* **Key Skills:** Autodesk Inventor drafting, sheet layout, standard views, section cuts, and dimensional accuracy.
+### 🛠️ [03. Inventor Mechanical Drawing Package](./03-inventor-mechanical-drawing-package/)
+
+<div>
+  <img src="/images/Chain_Breaker_thumbnail.png" alt="Chain Breaker Preview" width="22%" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
+  A production-ready ANSI technical drawing package and product image renderings for a mechanical chain breaker tool.
+  <br /><br />
+  <strong>Key Skills:</strong> Autodesk Inventor proficiency, ANSI drafting standards compliance, multi-part Bill of Materials (BOM), and high-fidelity rendering.
+</div>
+
+<br clear="left"/>
 
 ### ⚙️ [04. Modeling & Drafting Exercise Vault](./04-modeling-exercise-vault/)
 A curated gallery of coursework exercises showcasing speed, geometric variety, and fluency across both SolidWorks and Autodesk Inventor.
