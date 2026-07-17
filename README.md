@@ -44,7 +44,7 @@ Mechanical Design & Computer-Aided Drafting student transitioning into the CADD 
 ### 🛠️ [03. Inventor Mechanical Drawing Package](./03-inventor-mechanical-drawing-package/)
 
 <div>
-  <img src="/images/Chain_Breaker_thumbnail.png" alt="Chain Breaker Preview" width="22%" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
+  <img src="03-inventor-mechanical-drawing-package/images/Chain_Breaker_thumbnail.png" alt="Chain Breaker Preview" width="22%" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
   A production-ready ANSI technical drawing package and product image renderings for a mechanical chain breaker tool.
   <br /><br />
   <strong>Key Skills:</strong> Autodesk Inventor proficiency, ANSI drafting standards compliance, multi-part Bill of Materials (BOM), and high-fidelity rendering.
